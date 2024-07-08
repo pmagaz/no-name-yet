@@ -85,8 +85,8 @@ export const NavLinks = [
   },
 ];
 
-import sliderOne01 from "@/images/slider/1_1.jpg";
-import sliderOne02 from "@/images/slider/1_2.jpg";
+import sliderOne01 from "@/images/slider/01.png";
+import sliderOne02 from "@/images/slider/01.png";
 
 export const SliderOneData = [
   {
@@ -109,15 +109,15 @@ export const SliderOneData = [
   },
 ];
 
-import sliderTwo01 from "@/images/slider/2_1.jpg";
-import sliderTwo02 from "@/images/slider/2_2.jpg";
-import sliderTwo03 from "@/images/slider/2_3.jpg";
+import sliderTwo01 from "@/images/slider/01.png";
+import sliderTwo02 from "@/images/slider/01.png";
+import sliderTwo03 from "@/images/slider/01.png";
 
 export const SliderTwoData = [
   {
     image: sliderTwo01,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
-    title: "DIGITAL\nMARKETING\nAGENCY.",
+    subTitle: "WELCOME TO KOAN COAHING",
+    title: "COACHING\nLEADERSHIP\nACADEMY.",
     button: {
       label: "DISCOVER MORE",
       url: "/about",
@@ -125,8 +125,8 @@ export const SliderTwoData = [
   },
   {
     image: sliderTwo02,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
-    title: "DIGITAL\nMARKETING\nAGENCY.",
+    subTitle: "WELCOME TO KOAN COAHING",
+    title: "COACHING\nLEADERSHIP\nACADEMY.",
     button: {
       label: "DISCOVER MORE",
       url: "/about",
@@ -134,8 +134,8 @@ export const SliderTwoData = [
   },
   {
     image: sliderTwo03,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
-    title: "DIGITAL\nMARKETING\nAGENCY.",
+    subTitle: "WELCOME TO KOAN COAHING",
+    title: "COACHING\nLEADERSHIP\nACADEMY.",
     button: {
       label: "DISCOVER MORE",
       url: "/about",
@@ -143,8 +143,8 @@ export const SliderTwoData = [
   },
 ];
 
-import sliderThree01 from "@/images/slider/3_1.jpg";
-import sliderThree02 from "@/images/slider/3_2.jpg";
+import sliderThree01 from "@/images/slider/01.png";
+import sliderThree02 from "@/images/slider/01.png";
 
 export const SliderThreeData = [
   {
